@@ -1,2 +1,3 @@
 # hello-world
-Hello world new - git hub program
+Hello world 2 new modified - git hub program
+Working with GIT HUB Hello world program
